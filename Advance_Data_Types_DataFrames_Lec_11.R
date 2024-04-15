@@ -7,7 +7,7 @@
 #or logical.
 
 #dataframe-
-data_frame <- data.frame(Training = c("Strength","Stamina","Other"),
+data_frame <- data.frame(Training = c("Strengthen","Stamina","Other"),
                          Pulse = c(100, 150, 120),
                          Duration = c(60, 30, 45))
 data_frame
